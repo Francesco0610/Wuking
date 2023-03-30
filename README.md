@@ -3,13 +3,13 @@ Learn the basis of Unity and C# to create an HardCore game
 
 ## Purposes
 
-Quello che voglio fare creando questo gioco è il primo passo verso il mondo dei videogiochi con ambiente Unity, lo studio dei tools integrati e delle possibilità e libertà che ho attraverso questo software.
-Quanto è personalizzabile e se sono limitato al solo software oppure è possibile fare le stesse cose nello stesso tempo.
+What I want to do by creating this game is the first step towards the world of video games with a Unity environment, the study of integrated tools and the possibilities and freedoms I have through this software.
+How customizable it is and if I'm limited to just software or is it possible to do the same things at the same time.
 
 # The Idea of The Game
 
 The protagonist is a human in an armor, that is trapped in this box-world where he can only survive dodging every dangerous things that appears randomly in this crazy world.
-E' davvero così difficile sopravvivere per un minuto?
+Is it really that hard to survive for just a minute?
 
 
 # What I learned and I want to learn
@@ -27,7 +27,7 @@ I tried many things like audio sorce for the music etc, just to know all about u
 *Next Updates: For the near future I will implement the collisions and the game loop, so the game would be finished and playble, I will create a section on how to install it and play it!*
 
 
-# Contributi
+# Contributes
 
 Francesco De Stasio 🐻
 
